@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Laserbean
-- 👀 I’m interested in Machine Learning and Game development
+- 👀 I’m interested in Machine Learning and Unity Game development
 
 <!---
 - 🌱 I’m currently in my fourth year of my mechatronics engineering degree
